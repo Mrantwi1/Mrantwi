@@ -22,7 +22,7 @@ Sections included:
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{{NAME}} — Back-end Developer | GitHub Profile</title>
+  <title>{Kwame Antwi Boasiako} — Back-end Developer | GitHub Profile</title>
   <style>
     :root{--bg:#0f1720;--card:#0b1220;--muted:#94a3b8;--accent:#06b6d4;--glass:rgba(255,255,255,0.04)}
     *{box-sizing:border-box;font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial}
@@ -74,7 +74,7 @@ Sections included:
         <img src="https://avatars.githubusercontent.com/{{GITHUB_USERNAME}}" alt="{{NAME}} avatar" />
       </div>
       <div class="title">
-        <h1>{{NAME}} <span style="color:var(--accent);font-weight:600">| Back-end Developer</span></h1>
+        <h1>{{Kwame Antwi Boasiako}} <span style="color:var(--accent);font-weight:600">| Back-end Developer</span></h1>
         <div class="subtitle">ALX Back-end learner • Building dependable, scalable server-side systems • Open-source contributor</div>
         <div class="social">
           <a class="pill" href="https://github.com/{{GITHUB_USERNAME}}">GitHub</a>
